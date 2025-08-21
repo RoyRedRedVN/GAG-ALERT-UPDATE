@@ -1,5 +1,5 @@
 {
   "version": "0.32",
   "link": "https://drive.usercontent.google.com/open?id=1STTzk2VJLQpo5JMe9utFEbUeRF3G7Pm0&authuser=0",
-  "description": " Fix (1. Switch not work in offline, 2. Fix weather progessbar, handler gilde, 3. New api weather.")
+  "description": "Fix: 1) Switch không hoạt động offline, 2) Weather progressbar + handler Glide, 3) API weather mới"
 }
