@@ -2,5 +2,8 @@
   "version": "0.32",
   "link": "https://google.com",
   "offical": "https://discord.com",
-  "description": "TESTING DIALOG OK!"
+  "description": "-- BUG FIX --
+                  - Switch no save
+                  - Weather Fix Handler
+                  - New Api Weather"
 }
