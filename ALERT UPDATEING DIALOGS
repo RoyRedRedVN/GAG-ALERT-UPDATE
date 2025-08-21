@@ -1,5 +1,5 @@
 {
   "version": "0.32",
   "link": "https://youtube.com",
-  "description": "Fix (1. Switch not work in offline, 2. Fix weather progessbar, handler gilde, 3. New api weather.)"
+  "description": "Fix Switch not work in offline, 2 Fix weather progessbar, handler gilde, 3 New api weather"
 }
