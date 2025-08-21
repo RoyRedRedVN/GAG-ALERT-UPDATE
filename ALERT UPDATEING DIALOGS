@@ -1,5 +1,5 @@
 {
   "version": "0.32",
-  "link": "https://google.com",
-  "description": "Fix: 1) Switch không hoạt động offline, 2) Weather progressbar + handler Glide, 3) API weather mới"
+  "link": "https://...",
+  "description": "Fix (1. Switch not work in offline, 2. Fix weather progessbar, handler gilde, 3. New api weather.)"
 }
