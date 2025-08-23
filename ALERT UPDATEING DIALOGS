@@ -1,5 +1,5 @@
 {
-  "version": "0.31",
+  "version": "0.32",
   "link": "https://youtube.com",
   "description": "Fix Switch not work in offline, 2 Fix weather progessbar, handler gilde, 3 New api weather"
 }
